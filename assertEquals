@@ -1,0 +1,3 @@
+assertEquals([String message], expected, actual)
+
+assertEquals([String message], expected, actual, tolerance)
