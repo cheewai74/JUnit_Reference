@@ -1,0 +1,4 @@
+@Test(expected=ArithmeticExeption.class)
+public void divideByZeroEx(){
+int e=1/0;
+}
