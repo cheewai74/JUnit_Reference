@@ -1,0 +1,4 @@
+assertTrue([message], boolean condition)
+
+E.g:
+assertTrue(timeline.getFetchCount()> 0);
